@@ -1,0 +1,283 @@
+{
+  "Category" : {
+    "01" : {
+      "image" : "https://www.seriouseats.com/recipes/images/2017/12/20171115-chicken-soup-vicky-wasik-11-1500x1125.jpg",
+      "name" : "SOUPS"
+    },
+    "02" : {
+      "image" : "https://images-gmi-pmc.edge-generalmills.com/7ed1e04a-7ac6-4ca2-aa74-6c0938069062.jpg",
+      "name" : "CHICKEN"
+    },
+    "03" : {
+      "image" : "http://www.colegioenriquesoler.com/blogsdeaulas/comedor/wp-content/uploads/sites/49/2018/02/PASTA-1.jpg",
+      "name" : "PASTA"
+    },
+    "04" : {
+      "image" : "https://www.seriouseats.com/recipes/images/2016/12/20161201-crispy-roast-potatoes-29-625x469.jpg",
+      "name" : "SIDE DISH"
+    },
+    "05" : {
+      "image" : "https://www.soscuisine.com/media/images/recettes/very_large/331.jpg",
+      "name" : "SALAD"
+    },
+    "06" : {
+      "image" : "https://www.seriouseats.com/recipes/images/2017/06/20170526-no-bake-cheesecake-vicky-wasik-18-625x469.jpg",
+      "name" : "DESSERT"
+    },
+    "07" : {
+      "image" : "https://static01.nyt.com/images/2016/11/15/dining/15COOKING-OLD-BEEF-STEW2/15COOKING-OLD-BEEF-STEW2-articleLarge.jpg",
+      "name" : "STEW"
+    },
+    "08" : {
+      "image" : "https://img1.cookinglight.timeinc.net/sites/default/files/styles/4_3_horizontal_-_1200x900/public/image/2017/06/main/skillet-ratatouille-1708p22_1.jpg",
+      "name" : "VEGGIE"
+    },
+    "09" : {
+      "image" : "https://printground.net/wp-content/uploads/2017/08/Fish_Food_Lemons_Trout_Plate_528017_3000x2000MIN.jpg",
+      "name" : "FISH"
+    }
+  },
+  "Food" : {
+    "01" : {
+      "image" : "https://recipeci.com/wp-content/uploads/2018/07/DSC03417-376x251.jpg",
+      "ingredients" : "Za podlogu:250 g oreo keksa, 80 g maslaca. Za kremu:500 ml mlijeka, 500 ml slatkog vrhnja, 12 zlica gustina, 3 zlice ostrog brasna, 5 zlica secera, 500 g mascarponea, 150 g cokolade za kuhanje. I jos: 500 ml vrhnja za slag.",
+      "menuId" : "06",
+      "name" : "LEDENI KOLAC SA OREO KEKSIMA",
+      "preparation" : "Za podlogu samljeti kekse u blenderu, dodati im otopljeni maslac i dobro promijesati. U lim srednje velicine utisnuti podlogu od keksa. Utapkati dobro podlogu vecom zlicom da bude glatko. Spremiti u hladnjak dok se priprema krema. Za kremu pomijesati mlijeko i slatko vrhnje. Oduzeti cca 200 ml pa razmutiti sa brasnom secerom i gustinom. Ostatak mjesavine mlijeka i vrhnja zakuhati pa u kipuce ukuhati masu sa brasnom, gustinom i secerom. Kuhati uz mijesanje par minuta dok se ne zgusne. Ovo je brz proces, nesto kao kuhanje pudinga. Kuhanu kremu uz mijesanje ohladiti. U ohladjenu kremu dodati mascarpone i sjediniti mijesanjem. Podijeliti kremu na dva dijela, pa u jedan dodati otopljenu cokoladu i dobro izmiksati. Na podlogu od keksa rasporediti najprije bijeli dio, pa preko njega cokoladni dio kreme. Staviti u hladnjak na par sati da se dobro rashladi. Potom sve skupa premazati cvrsto tucenim vrhnjem za slag i po zelji posipati cokoladnim strugotinama. Sada kolac mozete ali ne morate staviti na cca 30tak minuta u zamrzivac.  Posluzite rezano na kocke zeljene velicine. Dobar tek!"
+    },
+    "02" : {
+      "image" : "https://recipeci.com/wp-content/uploads/2017/07/DSC07772-376x251.jpg",
+      "ingredients" : "250 g Oreo keksa, 80 g maslaca, 400 g krem sira, 5 zlica secera u prahu, 300 ml slatkog vrhnja",
+      "menuId" : "06",
+      "name" : "OREO CHEESCAKE",
+      "preparation" : "200 g Oreo keksa treba samljeti. Mozete ih i istuci batom za meso preko vrecice, ali onda necete dobiti fine sitne mrvice. Sada odvojte 150 g keksa, a preostale stavite na stranu jer ce vam trebati kasnije da njima posipate tortu kada vude gotova. Otopite maslac i pomijesajte ga sa 150 g mljevenih keksa. Dobro promijesajte i dobivenu smjesu prebacite na dno okruglog kalupa za torte. Neka kalup bude najvise 24 cm promjera jer ce vam inace torta biti preniska. Kalup prethodno premazite tankim slojem maslaca. zlicom dobro utisnite podlogu kako bi cijelom povrsinom bila ravnomjerno rasporedjena. Pospremite kalup u hladnjak i drzite ga na hladnom dok se podloga ne ocvrsne. Miksajte slatko vrhnje dok ne dobijete potpuno cvrsti slag. Pomijesajte mikserom krem sir za secerom u prahu. Ukoliko volite sladje kolace, dodajte jos secera. Sada spojite slatko vrhnje i krem sir u jednolicnu kremu. U kremu umijesajte rucno natrgane preostale komadice Oreo keksa. Dobivenom kremom prekrijte podlogu od keksa, poravnajte i posipajte preostalim mrvicama Oreo keksa. Mozete dodatno ukrasiti slagom ukoliko zelite. Dobro rashladite i posluzite. Dobar tek!"
+    },
+    "03" : {
+      "image" : "https://recipeci.com/wp-content/uploads/2015/06/DSC01537-376x251.jpg",
+      "ingredients" : "4 jaja, 130 g secera, 100 g ostrog brasna, 180 g maslaca, 300 g cokolade za kuhanje, 2 zlicice praska za pecivo, 2 vanilin secera, 250 g malina",
+      "menuId" : "06",
+      "name" : "COKOLADNA TORTA S MALINAMA",
+      "preparation" : "Otopiti u manjoj posudici cokoladu sa maslacom. Uz mijesanje prohladiti. Miksati cijela jaja sa secerom i vanilin secerom. Dodati brasno i prasak za pecivo i na kraju umiksati otopljenu cokoladu s maslacom. Na kraju svega umijesati lagano kuhacom maline. Smjesu izliti u kalup za torte koji prethodno treba namastiti i pobrasniti, poravnati i peci u pecnici zagrijanoj na 170C 40 minuta. Tortu prohladiti, maknuti obruc, posipati kakaom te posluziti rezanu na snite uz slatko vrhnje i eventualno malo preljeva ili dzema od malina"
+    },
+    "04" : {
+      "image" : "https://recipeci.com/wp-content/uploads/2018/03/DSC01252-300x200.jpg",
+      "ingredients" : "8 palacinki za tortilje, 2 pileca filea, 100 g pancete, 1 veci luk, zacini: tacos, nachos, sol, papar, vegeta�, 1 zlica kiselog vrhnja, 100 g ribane mozzarele, 1 zlica vlasca.. Za ljepljenje tortilja: 3 zlice brasna + malo vode. Za paniranje: 4 jaja, 100 g brasna, oko 200 g krusnih mrvica",
+      "menuId" : "02",
+      "name" : "SAMOSA OD TORTILJA S PILETINOM",
+      "preparation" : "Za nadjev izrezite file na deblje odreske, posolite i zacinite te przite na ulju s obje strane dok lijepo ne porumeni. Izvadite pecene odreske pa na istom ulju przite luk izrezan na trakice. U drugoj tavi hrskavo isprzite tanko rezanu pancetu. Pomijesajte meso, luk, pancetu, vrhnje, mozzarelu i zacine u kompaktnu smjesu. Svaku tortilja palacinku prerezite na dva dijela. Presavijte u oblik trokuta, s tim da unutrasnju stranu prije toga premazete �ljepilom� od brasna i vode kako bi se spojilo. Sa gornje otvorene strane trokuta stavite nadjev, premazite rub �ljepilom� od brasna i vode pa dobro pritisnite prstima kako bi se trokut zatvorio. Nadjevene trokute umacite prvo u jaje, zatim brasno, opet jaje pa zatim u krusne mrvice. Nakon toga przite u dubokom ulju s jedne i sa druge strane dok ne dobiju zlatno smedju boju. Posluzite uz umak po zelji. Dobar tek!"
+    },
+    "05" : {
+      "image" : "https://recipeci.com/wp-content/uploads/2018/01/DSC00038-376x251.jpg",
+      "ingredients" : "1,5 pileca prsa, krusne mrvice,300 ml jogurta, zlicica soli, 3 cesnja cesnjaka",
+      "menuId" : "02",
+      "name" : "POHANI PILECI ODRESCI IZ PECNICE",
+      "preparation" : "Meso otkostiti i narezati na tanke odreske. Preko narezanog mesa preliti marinadu od jogurta u koji ste umijesali sol i protisnuti cesnjak. Nakon mariniranja odreske jedan po jedan uvaljati sa svih strana u krusne mrvice. Slagati ih na lim za pecenje koji ste ranije presvukli papirom za pecenje i premazali tankim slojem otopljenog maslaca ili ulja. Odreske samo lagano poskropiti uljem i peci na 18C 40tak minuta. Nakon otprilike pola pecenja okrenuti odreske na drugu stranu kako bi se zapekli i od dolje. Gotovi su kada dobiju lijepu zlatno zutu boju i hrskavu koricu. Posluziti uz prilogu i salatu po zelji. Dobar tek!"
+    },
+    "06" : {
+      "image" : "https://recipeci.com/wp-content/uploads/2017/03/DSC05394-376x251.jpg",
+      "ingredients" : "400 g pileceg filea, 8 komada tortilja, 200 g sira trapista. Za mariniranje mesa: 300 ml mlijeka, 200 ml jogurta, 2 zlice balsamico octa a moze i bez njega,sol, papar. Za paniranje: 3 salice ostrog brasna, 1 zlicica soli, 1 zlica cesnjaka u granulama, 1 zlicica kajenskog papra, 1 zlicica mljevenog chilija, pola pilece kocke za juhu, 2 jaja, 250 ml mlijeka. Za BBQ umak: 200 ml soka od rajcice, 3 zlice ketchupa, 1 luk, 4 zlice secera, sol, 2 zlice senfa, 1 zlicica kajenskog papra, 1 zlicica slatke mljevene crvene paprike",
+      "menuId" : "02",
+      "name" : "QUESADILLA S PILETINOM",
+      "preparation" : "Meso narezati na tanje odreske pa ga uroniti u mjesavinu mlijeka, jogurta i balsamico octa. Posoliti prstohvatom soli i ostaviti u marinadi najmanje 2 sata. Mlijeko i kiselina iz jogurta i balsamico octa omekasti ce meso i dati mu potrebnu socnost. Za BBQ umak prziti sitno sjeckan luk na malo maslinovog ulja sa secerom. Mijesati par minuta dok secer ne potamni, a luk postane mekan. Dodati tada rajcicu, ketchup i senf, pa uz povremeno mijesanje kuhati 15tak minuta. Potom usitniti sve stapnim mikserom. Ako napravite vise ovog umaka mozete ga ohladiti i pospremiti u staklenkama u hladnjak za drugi put. Igrajte se okusima. Slobodno u ovaj umak dodajte ono sto vam pase. Ako ne volite ljute izbacite ono sto je ljuto. Ako volite vise ljuto, dodajte mu nesto vatreno, chili npr. O vama ovisi kakav cete umak napraviti. Za paniranje pomijesati jaja sa mlijekom. Za suhu panadu pomijesati sve suhe sastoje. Dodati nakon toga izmrvljenu kocku za juhu pa ju prstima utrljati u brasno. Postupak slican kao kad mrvite maslac sa brasnom da biste dobili one sitne mrvice. Meso izvaditi iz marinade, umakati u zacinjeno brasno, potom u jaja s mlijekom, pa ponovo u zacinjeno brasno, i tako jos jednom. Utapkati prstima panadu sa svih strana. Prziti panirano meso u dubokom ulju sa obje strane. Peceno ocijediti od masnoce na papirnom ubrusu. Pohano meso nasjeckati na komadice ili trakice, slagati ga na polovicu tortilje, preliti sa malo umaka, dodati naribani sir, preklopiti pa kratko zapeci na elektricnom rostilju ili tavi. Posluziti rezano na trokute. Dobar tek!"
+    },
+    "07" : {
+      "image" : "https://recipeci.com/wp-content/uploads/2019/03/IMG_20190320_141822-1024x766.jpg",
+      "ingredients" : "300 g tjestenine, 3 rajcice, 200 g mozzarele, 50 g maslaca, 6 jaja, 100 ml mlijeka, 1 zlica vlasca, sol, papar.",
+      "menuId" : "08",
+      "name" : "FRITAJA S TJESTENINOM",
+      "preparation" : "Tjesteninu skuhati i prohladiti. Rajcicu i sir narezati na manje kockice. Jaja umutiti pjenjacom, dodati mlijeko i zacine. Vatrostalnu posudu premazati tankim slojem maslaca. Pomijesati tjesteninu sa rajcicom i sirom, dodati umucena jaja. Sve istresti u pripremljenu vatrostalnu posudu, poravnati i peci u pecnici na 200C 30 minuta. Posluziti uz mladi luk ili jogurt po zelji."
+    },
+    "08" : {
+      "image" : "https://recipeci.com/wp-content/uploads/2019/03/IMG_20190320_141822-1024x766.jpg",
+      "ingredients" : "300 g tjestenine, 3 rajcice, 200 g mozzarele, 50 g maslaca, 6 jaja, 100 ml mlijeka, 1 zlica vlasca, sol, papar.",
+      "menuId" : "03",
+      "name" : "FRITAJA S TJESTENINOM",
+      "preparation" : "Tjesteninu skuhati i prohladiti. Rajcicu i sir narezati na manje kockice. Jaja umutiti pjenjacom, dodati mlijeko i zacine. Vatrostalnu posudu premazati tankim slojem maslaca. Pomijesati tjesteninu sa rajcicom i sirom, dodati umucena jaja. Sve istresti u pripremljenu vatrostalnu posudu, poravnati i peci u pecnici na 200C 30 minuta. Posluziti uz mladi luk ili jogurt po zelji."
+    },
+    "09" : {
+      "image" : "https://recipeci.com/wp-content/uploads/2017/08/DSC08485-300x198.jpg",
+      "ingredients" : "400 g lovacke salate, 1 mala konzerva crvenog graha, 2 zlice ostrog brasna, papar, sol, cili, 400 g tjestenine.",
+      "menuId" : "03",
+      "name" : "TJESTENINA S LOVACKOM SALATOM",
+      "preparation" : "Za tjesteninu zakuhati u vecem loncu vodu sa soli. U kipuce ubaciti tjesteninu i skuhati. Nakon kuhanja ocijediti i ubaciti u umak. Dok se tjestenina kuha pripremiti umak. U vecoj i dubljoj tavi zagrijati lovacku salatu. Dodati grah, zaciniti po ukusu i oustiti da prokuha par minuta. Tada dodati brasno razmuceno sa par zlica vode pa dobro promijesati. Sjediniti umak sa tjesteninom i posluziti. Ako volite sir, mozete svaku porciju posipati krupno ribanim parmezanom. Dobar tek!"
+    },
+    "11" : {
+      "image" : "https://recipeci.com/wp-content/uploads/2017/04/DSC06385-376x251.jpg",
+      "ingredients" : "1 pakiranje tankih kora za savijace, 6 kom poriluka, 4 krumpira, 1 luk, 100 ml bijelog vina, 250 ml povrtnog temeljca, sol, papar",
+      "menuId" : "08",
+      "name" : "PITA OD PORILUKA I KRUMPIRA",
+      "preparation" : "Poriluk oprati i narezati na kolutice. Prziti ga na malo uljai na jednom sjeckanom luku dok ne pusti tekucinu i ne omekani. Tada dodati sol i papar, vegetu po zelji ako ju koristite, doliti vino pa pirjati uz povremeno mijesanje 15tak minuta. Za to vrijeme oguliti krumpir i naribati ga na krupniji ribez. Dodati ga potom omeksalom poriluku, promijesati, dodati jos papra ili soli ukoliko smatrate da treba, pa uz mijesanje kratko poprziti. Tako dobivenim nadjevom puniti po dvije tanke kore, motati ih u rolade i odlagati jednu do druge u lim za pecenje. Premazati pitu uljem pa peci u pecnici zagrijanoj na 180C 20 minuta. Tada pitu izvaditi i preliti je kipucim temeljcem pa vratiti u pecnicu na jos 15tak minuta da se ispece do kraja. Pita od poriluka i krumpira je gotova kada upije sav temeljac i kada se od gore lijepo zapece. Posluzite pitu narezanu na komade uz hladni jogurt ili kiselo vrhnje. Dobar tek!"
+    },
+    "12" : {
+      "image" : "https://recipeci.com/wp-content/uploads/2015/09/DSC05231-300x200.jpg",
+      "ingredients" : "manja glavica brokule, 1 luk, 2 mala krumpira, 3 zlice brasna, 1 dl maslinovog ulja, sol, papar, prstohvat svjeze sjeckanog vlasca i na vrh noza cesnjaka u prahu, 200 ml vrhnja za kuhanje, 1 zlica kiselog vrhnja, 1,5 l vode.",
+      "menuId" : "01",
+      "name" : "JUHA OD BROKULE I KRUMPIRA",
+      "preparation" : "Sitno sjeckan luk prziti na maslinovom ulju. Kada luk omeksa, dodati brasno, promijesati te postepeno zaliti vodom uz mijesanje pjenjacom kako bi razbili sve grudice. Dodati u posudu oprane cvjetove brokule i krumpir izrezan na kockice, vlasac iostale zacine. Kuhati sve skupa na laganoj vatri u polupokrivenoj posudi kako vam juha ne bi iskipjela cca 20 do 30 min. Povremeno promijesati. Kada povrce omeksa, sve skupa propasirati stapnim mikserom, dodati vrhnje za kuhanje i kiselo vrhnje te kratko prokuhati. Po potrebi dosoliti ili popraviti okus paprom. Posluziti juhu uz przene kockice kruha ili okruglice za juhu. Dobar tek!"
+    },
+    "13" : {
+      "image" : "https://recipeci.com/wp-content/uploads/2010/02/PC170001-273x205.jpg",
+      "ingredients" : "2 manje tikvice, 2 krumpira, 1 manja glavica luka, ulje, 3 zlice brasna, 1,5 l vode, 2 zlice kiselog vrhnja, vegeta, sol, papar.",
+      "menuId" : "01",
+      "name" : "KREM JUHA OD TIKVICA",
+      "preparation" : "Oguliti i narezati krumpir na kockice. Tikvice oprati i sa korom narezati na kocke. Na ulju kratko poprziti nasjeckani luk, dodati brasno, dobro promijesati pa uz mijesanje pjenjacom doliti vodu. Dodati tikvice i krumpir, posoliti, povegetiti i popapriti te kuhati dok povrce ne bude mekano. Povremeno promijesati i paziti da ne pokipi. Na samom kraju kuhanja dodati kiselo vrhnje pa stapnim mikserom sve dobro izmiksati. Po potrebi dodati vodu ukoliko je pregusto i jos kratko prokuhati."
+    },
+    "14" : {
+      "image" : "https://recipeci.com/wp-content/uploads/2017/08/DSC08303-300x200.jpg",
+      "ingredients" : "3 paprike roge, 1 luk, 1,5 l govedjeg temeljca, 100 ml soka od rajcice, 2 cesnja cesnjaka, 2 zlice ostrog brasna, 2 zlice kiselog vrhnja, prstohvat mljevenog cilija, papar, sol",
+      "menuId" : "01",
+      "name" : "KREM JUHA OD CRVENE PAPRIKE",
+      "preparation" : "Na malo ulja prziti nasjeckan luk i papriku rogu nasjeckanu na manje rezance. Pirjati uz povremeno mijesanje 15 minuta dok paprika malo ne omeksa. Tada dodati brasno, promijesati pa zaliti temeljcem. Dodati cesnjak, rajcicu i ostale zacine. Kuhati iz povremeno mijesanje jos 15 minuta. Juhu miksati stapnim mikserom, dodati kiselo vrhnje, po potrebi popraviti okus ako treba te ostaviti da se prohladi. Posluziti juhu uz przene kockice kruha aromatizirane cesnjakom i zacinskim biljem. Dobar tek!"
+    },
+    "15" : {
+      "image" : "https://recipeci.com/wp-content/uploads/2014/03/Gusta-juha-od-povr%C4%87a-1-300x225.jpg",
+      "ingredients" : "1 manji luk, 4-5 zlica ulja, 3 jusne zlice brasna, paketic zamrznutog povrca za juhu mijesano: luk, mrkva, krumpir, paprika, grasak�ma sto god pozelite, 1 veci krumpir, 2l vode ili jusnog temeljca, 2 dl vrhnja za kuhanje, 3 zlice kiselog vrhnja, kocka za juhu, vegeta, sol, papar.",
+      "menuId" : "01",
+      "name" : "JUHA OD POVRCA",
+      "preparation" : "Na ulju prziti sitno sjeckan luk dok ne povene i ne pozuti, tada dodati brasno, promijesati, pa polako uz mijesanje pjenjacom ulijevati vodu ili temeljac. Dodati kocku za juhu i ostale zacine koje zelite i volite, dodati povrce i krumpir isjeckan na sitne kockice pa kuhati uz povremeno mijesanje 30tak minuta. Toliko je otprilike potrebno povrcu da omeksa i da se skuha. Tada stapnim mikserom usitniti sve, dodati vrhnje za kuhanje i kiselo vrhnje, dobro promijesati i kratko prokuhati. Probati svakako juhu i zaciniti jos po potrebi. Posluziti uz krckave kuglice za juhu ili poprzene kockice kruha."
+    },
+    "16" : {
+      "image" : "https://recipeci.com/wp-content/uploads/2015/10/DSC05550-300x200.jpg",
+      "ingredients" : "400 g gljiva bukovaca, 1 luk, 100 g pancete, 150 ml vrhnja za kuhanje, 50 ml bijelog vina, strucak lisca persina, vegeta, sol, papar, 400 g sirokih rezanaca",
+      "menuId" : "03",
+      "name" : "TJESTENINA S GLJIVAMA I PANCETOM",
+      "preparation" : "Gljive obrisati papirnim ubrusom pa ih narezati na trakice i klobuke i stapkice. Na malo ulja prziti sitno sjeckan luk i pancetu, dodati gljive, promijesati, lagano posoliti i pirjati 5-6 minuta dok gljive ne puste tekucinu. Tada doliti vino i pirjati dok sva tekucina potpuno ne ispari. Dodati nakon toga oko 2 dl vode, zaciniti po ukusu, i pirjati  jos 15 minuta. Pred kraj dodati vrhnje za kuhanje i sjeckano persinovo lisce. Kuhanu tjesteninu preliti umakom i posluziti."
+    },
+    "17" : {
+      "image" : "https://recipeci.com/wp-content/uploads/2015/07/PA270058-300x225.jpg",
+      "ingredients" : "500 g duguljaste tjestenine, 2 jaja, 200 ml vrhnja za kuhanje, 200 g suhe slanine ili pancete, 150 g ribanog parmezana, sol, papar, vegeta, prstohvat cesnjaka u granulama",
+      "menuId" : "03",
+      "name" : "CARBONARA",
+      "preparation" : "Tjesteninu skuhati al dente. Na malo maslinovog ulja prziti sitno sjeckanu slaninu. U posebnoj zdjelici umutiti jaja sa parmezanom. Kuhanu tjesteninu istresti na przenu slaninu, dodati vrhnje za kuhanje, dobro promijesati pa kada postane ravnomjerno vruce i kada tjestenina nakon 2 do 3 minute upije tekucinu iz vrhnja, dodati jaja sa parmezanom. Po zelji zaciniti solju, paprom ili vegetom. Dobro promijesati kako bi se jaja ravnomjerno rasporedila i sir otopio. Posluziti uz salatu po zelji i casu orosenog bijelog vina! Dobar tek!"
+    },
+    "18" : {
+      "image" : "https://recipeci.com/wp-content/uploads/2012/12/PC150024-300x225.jpg",
+      "ingredients" : "30 dag makarona, 15 dag salame ili sunke, 20 dag sira trapista, Za bechamel: 10 dag maslaca+4 zlice brasna+6 dl mlijeka+3 zlice kiselog vrhnja, vegeta, sol, papar",
+      "menuId" : "03",
+      "name" : "MAKARONI LASAGNE",
+      "preparation" : "Makarone, ukoliko nemate ostatke skuhanih, skuhati al dente i ocijediti. Za bechamel otopiti maslac, dodati brasno, pa uz mijesanje pjenjacom polako ulijevati mlijeko. Zaciniti po ukusu pa kuhati nekoliko minuta uz mijesanje dok se ne dobije gustoca umaka. Eventualno razrijediti sa jos malo mlijeka, dodati kiselo vrhnje. U vatrostalnu posudu ili lim za pecenje premazan margarinom sloziti red kuhane tjestenine, preliti polovicom bechamela, naribati ili narezati salamu, posipati ribanim sirom, prekriti ostatkom tjestenine pa zaliti ostatkom bechamela. Sve skupa posipati ostatkom ribanog sira, pokapati kethupom i origanom po zelji pa zapeci u pecnici na 200C cca 20 min dok se ne dobije zlacana korica. Posluziti toplo uz salatu po zelji."
+    },
+    "19" : {
+      "image" : "https://recipeci.com/wp-content/uploads/2015/09/DSC04879-376x251.jpg",
+      "ingredients" : "500 g oslica file, 800 g krumpira, 500 ml ribljeg temeljca, 1,5 dl bijelog vina, 3 cesnja cesnjaka, maslinovo ulje, vezica persinovog lisca, ruzmarin, 2 lovorova lista, papar, sol",
+      "menuId" : "09",
+      "name" : "OSLIC ALLA BAKALAR",
+      "preparation" : "File oslica narezati na komadice, a krumpir oguliti i narezati na ploskice 0.5 cm debljine.U riblji temeljac dodati ruzmarin i lovorov list i zatim komadice oslica. Kuhati svega nekoliko minuta, pa ribu izvaditi na stranu supljom zlicom. Sada u isti taj temeljac dodati ploske krumpira. Kuhati 15tak minuta. Pazite da se krumpir ne prekuha i ne raspadne! U vatrostalnu posudu uliti malo ulja, posipati sitno kosanim persinovim liscem i protisnutim cesnjakom, pa naizmjence slagati redove krumpira i ribe. Izmedju svakog reda posipajte persinom i cesnjakom. Neka gornji sloj bude pretezito krumpir. Zaliti sve vinom i preostalim temeljcem, poklopiti poklopcem ili alu folijom pa peci u pecnici na 170C 20tk minuta. Oslic alla bakalar pustite da malo odstoji u svom soku prije posluzivanja, a ako primjetite da vam je ostalo previse temeljca i da ga krumpir nije lijepo upio, slobodno malo odlijte."
+    },
+    "20" : {
+      "image" : "https://recipeci.com/wp-content/uploads/2015/09/DSC04671-300x200.jpg",
+      "ingredients" : "1 manji luk, 2 manja poriluka, 1 cesanj cesnjaka, 200 g ociscenih kozica zamzrnuti proizvod, 2 salice Arborio rize, 1 l ribljeg temeljca, 150 ml bijelog suhog vina, 50 g maslaca, 2 zlice vrhnja za kuhanje ili kiselog vrhnja, 80 g ribanog parmezana, sol, papar, vlasac",
+      "menuId" : "09",
+      "name" : "RIZOTO S KOZICAMA",
+      "preparation" : "Na malo maslinovog ulja pirjati sitno sjeckan luk i poriluk 2 do 3 minute. Dodati protisnuti cesnjak i kozice, promijesati, podliti sa vinom, posoliti i popapriti pa pirjati dok tekucina ne ispari. Dodati rizu, pa uz mijesanje pustiti da se riza lagano istostira 3 do 4 minute. Dodati riblji temeljac 2 do 3 dl, promijesati, pirjati nekoliko minuta, pa opet podliti temeljcem. Ovo je postupak koji cete sami procijeniti koliko puta treba ponoviti:  promijesati i dodavati temeljca, jer sve zavisi od vrste rize i koliko se ona brzo ukuhava. Ukoliko koristite Arborio rizu, rizoto ce, od trenutka dodavanje rize u jelo, biti gotov za 16 do 18 minuta. Pred kraj kuhanja, a nakon 15tak minuta dodati u rizoto s kozicama vrhnje za kuhanje ili kiselo vrhnje, maslac i parmezan, promijesati kako bi se svi sastojci prozeli, te pustiti rizoto da pociva 5 do 10 minuta prije posluzivanja. Servirati rizoto posipan dodatno parmezanom i svjeze sjeckanim vlascem. casa suhog bijelog vina savrseno pase uz ovo jelo. Dobar tek!"
+    },
+    "21" : {
+      "image" : "https://recipeci.com/wp-content/uploads/2016/07/DSC02852-376x251.jpg",
+      "ingredients" : "300 g jecmene kase, 1 luk, 1 tikvica, 3 mrkvice, sol, papar, prstohvat sjeckanog persina, 3 zlicice mljevene crvene paprike",
+      "menuId" : "04",
+      "name" : "JECMENA KASA SA POVRcEM",
+      "preparation" : "Jecmenu kasu dobro oprati pa kuhati u vodi cca 40 minuta. Ocijediti i oprati. Na malo ulja prziti sjeckani luk i mrkvicu, nakon par minuta dodati i tikvicu narezanu na tanke komadice. Nakon kraceg pirjanja dodati crvenu mljevenu papriku, ocijedjenu kasu, dobro promijesati, pa uz povremeno dolijevanje vode pirjati 30tak minuta. Dodati zacine � sol, papar, vegeta ako zelite, kusajte svakako da provjerite da li je to sve skupa ok. Kasu pirjajte na laganoj vatri uz povremeno mijesanje i dolijevanje vode. Otprilike svakih 10 minuta dolijte tekucinu jer ce se kasa nakuhati i upiti svu tekucinu. Igrajte se okusima. Dodajte sjeckani svjezi persin. Ako procjenite da vam je onako, �mlacnog� okusa i da nesto nedostaje, slobodno ubacite nesto sto vam pase kocku za juhu, casu vina, lovorov list, majcinu dusicu�napravite jecmenu kasu bas po svom gustu. Prije posluzivanja pustite da jecmena kasa sa povrcem odstoji dobrih 10tak minuta. Posluzite kao kompletan rucak ili kao prilog mesnom pecenju. Dobar tek!"
+    },
+    "22" : {
+      "image" : "https://coolinarika.azureedge.net/images/_variations/1/9/19a91db427c245664340b46e02eb5808_header.jpg?",
+      "ingredients" : "700 g mrkve, 75 ml slatkog vrhnja, 1 zlicica limunova soka, malo crnog papra mljevenog, cetvrtina zlicice muskatnog orascica mljevenog, pola zlicice cimeta mljevenog, pola zlicice Vegete, 1 zlica maslaca, 1 stapic cimeta u kori, 2 zlice svjeze narezanog vlasca",
+      "menuId" : "04",
+      "name" : "KREMASTE MRKVE",
+      "preparation" : "Mrkve ogulite i narezite na jednake stapice. Stavite ih u posudu s vodom i stapicem cimeta. Kada zakipi, kuhajte 6 do 8 minuta. Maknite cimet, ocijedite mrkve i vratite ih u posudu. Dodajte maslac, sol, cimet u prahu, muskatni orascic i papar. Sve dobro promijesajte, a zatim dodajte limunov sok i vrhnje. Pustite da kuha oko 1 minutu ili dok se vrhnje malo ne ugusti. Prebacite mrkve u plitku posudu za posluzivanje, pospite narezanim vlascem i posluzite."
+    },
+    "23" : {
+      "image" : "https://coolinarika.azureedge.net/images/_variations/1/8/18afef239c92a9182d64a016623c46e9_view_l.jpg",
+      "ingredients" : "1 Fant mjesavina za grah i variva, 3 zlice maslinovog ulja, 1 poriluk, 2 cesnja cesnjaka, pola ljute papricice, 500 g kuhanog slanutka , 100 ml Passate, 120 g spinata",
+      "menuId" : "07",
+      "name" : "VARIVO OD SLANUTKA I POVRCA",
+      "preparation" : "Sadrzaj vrecice Fanta pomijesajte sa 100 ml mlake vode i ostavite stajati nekoliko minuta. Na maslinovom ulju popecite narezani poriluk i protisnuti cesnjak. Dodajte narezanu ljutu papricicu, slanutak i prelijte vodom oko 700 ml. Umijesajte pripremljeni Fant i passatu. Kad zavrije umijesajte narezani spinat i kuhajte 5 do 10 minuta."
+    },
+    "24" : {
+      "image" : "https://coolinarika.azureedge.net/images/_variations/7/2/72c1dd7d4d4cee532cd75d9b88a31841_header.jpg?v=4",
+      "ingredients" : "1 kg kelja, 1 cesanj cesnjaka, 1 zlica Vegete, 2 zlice maslinovog ulja, jaje, 100 g sira ementalera, 30 g krusnih mrvica, Vegeta Maestro crni papar mljeveni, ulje za przenje",
+      "menuId" : "07",
+      "name" : "POPECCI OD KELJA",
+      "preparation" : "Glavicu kelja prerezite napola, odstranite joj korijen pa je narezite na krupne rezance. Kelj kuhajte u kipucoj posoljenoj vodi dok ne omeksa oko 15 minuta. Dobro ga ocijedite i sitno narezite. Dodajte protisnuti cesnjak, Vegetu, maslinovo ulje, jaje, naribani sir, krusne mrvice i papar. Smjesu promijesajte, oblikujte odreske pa uvaljajte u mrvice. Odreske przite u vrucem ulju dok ne poprime zlatnozutu boju. Posluzite ih tople kao prilog mesu ili kao malo samostalno jelo."
+    },
+    "25" : {
+      "image" : "https://coolinarika.azureedge.net/images/_variations/7/2/72c1dd7d4d4cee532cd75d9b88a31841_header.jpg?v=4",
+      "ingredients" : "1 kg kelja, 1 cesanj cesnjaka, 1 zlica Vegete, 2 zlice maslinovog ulja, jaje, 100 g sira ementalera, 30 g krusnih mrvica, Vegeta Maestro crni papar mljeveni, ulje za przenje",
+      "menuId" : "08",
+      "name" : "POPECCI OD KELJA",
+      "preparation" : "Glavicu kelja prerezite napola, odstranite joj korijen pa je narezite na krupne rezance. Kelj kuhajte u kipucoj posoljenoj vodi dok ne omeksa oko 15 minuta. Dobro ga ocijedite i sitno narezite. Dodajte protisnuti cesnjak, Vegetu, maslinovo ulje, jaje, naribani sir, krusne mrvice i papar. Smjesu promijesajte, oblikujte odreske pa uvaljajte u mrvice. Odreske przite u vrucem ulju dok ne poprime zlatnozutu boju. Posluzite ih tople kao prilog mesu ili kao malo samostalno jelo."
+    },
+    "26" : {
+      "image" : "https://coolinarika.azureedge.net/images/_variations/e/4/e43525d1addbc4346cc622cbf9107c68_header.jpg",
+      "ingredients" : "100 g cvjetova cvjetace, 100 g cvjetova brokule, 80 g poriluka bijeli dio, 50 g mrkve, 100 g cherry rajcica, 2 zlice ulja, 2 zlicice Vegete, 50 ml vode, 100 ml vrhnja za kuhanje, 80 g sira Edamera, 2 zlice limunova soka",
+      "menuId" : "04",
+      "name" : "POVRTNA RAPSODIJA",
+      "preparation" : "Poriluk i mrkvu narezite na kolutice i pomijesajte zajedno s cvjeticima brokule i cvjetace. Dodajte male rajcice i pospite Vegetom. Sve dobro izmijesajte, stavite u vatrostalnu posudu, prelijte uljem i vodom. Pokriveno povrce stavite u mikrovalnu pecnicu na srednju snagu oko 8 minuta.Vrhnje za kuhanje pomijesajte s limunovim sokom, prelijte povrce, pospite naribanim sirom i nepokriveno nastavite kuhati jos oko 2 minute. Ovako pripremljeno povrce posluzite uz meso s grilla ili pecenje."
+    },
+    "27" : {
+      "image" : "https://coolinarika.azureedge.net/images/_variations/d/d/ddf38bd0ee691cbad2e2553762f7c938_header.jpg",
+      "ingredients" : "400 g Crvenog graha iz konzerve, 1 svjeza crvena paprika, 1 glavica luka, 2 do 3 zlice ajvara, 2 do 3 zlice kiselog vrhnja, Vegeta, cili u prahu, sol,papar",
+      "menuId" : "07",
+      "name" : "ZAPECENI GRAH",
+      "preparation" : "Na tavi poprzite sitno nasjeckani luk, kad bude staklenast dodajte sitno na kockice nasjeckanu svjezu papriku. Prodinstajte cca 5 min. Grah iz konzere ocijedite i isperite pod mlazom vode.Dodajte na luk i papriku, promijesajte. Odmah na grah dodajte ajvar i zacine, sve pomijesajte, te pri kraju dodajte vrhnje.Promijesajte da se sastojci svi ravnomjerno sjedine, zapecite uz mijesanje jos cca 5 min."
+    },
+    "28" : {
+      "image" : "https://coolinarika.azureedge.net/images/_variations/3/2/32412974a05f25134e1d4be0e67ca572_header.jpg",
+      "ingredients" : "80 dkg njoka od krumpira, pola kg brokule, 10 dkg gorgonzole, 1 mozzarella, 2 dcl vrhnja, 3 dkg naribanog parmezana, sol",
+      "menuId" : "08",
+      "name" : "NJOKI S BROKULOM I GORGONZOLOM",
+      "preparation" : "Ocistite, operite brokulu i iscjekajte je na cvjetice. Gorgonzolu izrezite na kockice i stavite u tavu te dodajte vrhnje i rastopite na laganoj vatri. U loncu prokuhajte vecu kolicinu vode i posolite je; u prokljucalu vodu dodajte cvjetice brokule i kuhajte 2 min.; zatim u istu vodu istresite njoke i kuhajte ih sve dok nisu njoke isplivale na povrsinu za par min te iscijedite njoke i brokulu van. Stavite njoke i brokulu u posudu u kojoj cete posluziti i prelijte vrucim umakom od gorgonzole; pospite sve s parmezanom. Ukoliko zelite mozete sve to zapeci na par minuta u rerni, a i ne morate!"
+    },
+    "29" : {
+      "image" : "https://coolinarika.azureedge.net/images/_variations/e/e/ee73c72f10d5848b574ae20dfb37c1bd_header.jpg",
+      "ingredients" : "120 g rize, sol, 3 jaja, 2 zlice nasjeckanog celera, 160 g Eva tuna komadici u biljnom ulju, 300 g kiselih jabuka. Za salatni preljev: 4 zlice maslinova ulja, 3 zlice soka limete, 1 zlicica Senfa, 2 zlicice Vegeta Maestro slatke paprike mljevene, 100 g majoneze light, sol",
+      "menuId" : "05",
+      "name" : "SALATA OD RIZE S TUNOM",
+      "preparation" : "Rizu skuhajte u posoljenoj vodi, ocijedite i ohladite. Jaja stavite u kipucu posoljenu vodu, kuhajte ih 10 minuta, oljustite, ohladite i narezite. Ohladjenoj rizi dodajte celer, tunu, jaja i jabuke narezane na tanke stapice. Ulje, sok limete, senf, crvenu papriku, majonezu i sol dobro izmijesajte. Pripremljenu mjesavinu prelijte preko rize i sve promijesajte."
+    },
+    "30" : {
+      "image" : "https://coolinarika.azureedge.net/images/_variations/e/e/ee73c72f10d5848b574ae20dfb37c1bd_header.jpg",
+      "ingredients" : "120 g rize, sol, 3 jaja, 2 zlice nasjeckanog celera, 160 g Eva tuna komadici u biljnom ulju, 300 g kiselih jabuka. Za salatni preljev: 4 zlice maslinova ulja, 3 zlice soka limete, 1 zlicica Senfa, 2 zlicice Vegeta Maestro slatke paprike mljevene, 100 g majoneze light, sol",
+      "menuId" : "09",
+      "name" : "SALATA OD RIZE S TUNOM",
+      "preparation" : "Rizu skuhajte u posoljenoj vodi, ocijedite i ohladite. Jaja stavite u kipucu posoljenu vodu, kuhajte ih 10 minuta, oljustite, ohladite i narezite. Ohladjenoj rizi dodajte celer, tunu, jaja i jabuke narezane na tanke stapice. Ulje, sok limete, senf, crvenu papriku, majonezu i sol dobro izmijesajte. Pripremljenu mjesavinu prelijte preko rize i sve promijesajte."
+    },
+    "31" : {
+      "image" : "https://coolinarika.azureedge.net/images/_variations/a/0/a0efdd00b833ccffd598b564e11da6c6_header.jpg",
+      "ingredients" : "100 g presane sunke, 100 g polutvrdog sira, 50 g Kukuruza secerca, 20 g kapara, 100 g Kiselih krastavaca. Za jogurtni salatni preljev: 100 g majoneze, 2 cesnja cesnjaka, 200 do 300 ml jogurta, 1 vezica vlasca, malo Vegete. Za salatni preljev sa senfom: 2 zlicice Senfa, 3 do 4 zlicice vocnog octa, 100 ml ulja, malo secera, 1 vezica vlasca, sol, po zelji crnog papra mljevenog, Vegeta",
+      "menuId" : "05",
+      "name" : "SALATA VIKEND",
+      "preparation" : "sunku, sir i krastavce narezite na uske rezance. Tome dodajte kapare i kukuruz secerac. Prelijte jednim od preljeva za salate i lagano izmijesajte. Za jogurtni salatni preljev: u zdjelicu stavite majonezu, dodajte nasjeckani ili protisnuti cesnjak, Vegetu i narezani vlasac. Na kraju dodajte jogurt i lagano izmijesajte. Za salatni preljev sa senfom: senf, ocat, secer, malo soli i malo Vegete stavite u zdjelicu i sve dobro izmijesajte pa ostavite stajati barem pola sata. Nakon toga dodajte ulje i narezani vlasac. Sve izmijesajte i time prelijte salatu. Na tanjur ili u zdjelu slozite listove narezane salate, ili malo matovilca, ili rikule. Na to stavite ohladjenu salatu, ukrasite ploskama ili kriskama tvrdo kuhanih jaja i posluzite."
+    },
+    "32" : {
+      "image" : "https://coolinarika.azureedge.net/images/_variations/a/0/a0f26bf47d54ce0fc796dc93da671567_header.jpg",
+      "ingredients" : "500 g krastavaca, 250 g korabice, 100 g Kukuruza secerca Podravka, 200 g rajcica, 200 g dimljenog lososa, 4 zlice narancina soka. Za salatni preljev: 250 ml tekuceg jogurta, 100 g majoneze, 1 zlica narezanog kopra, 1 zlica narezane metvice, 1 zlicica Vegeta Twist salata, 2 cesnja cesnjaka, 2 do 3 zlice popecenog sezama",
+      "menuId" : "05",
+      "name" : "RASKOSNA SALATA",
+      "preparation" : "Krastavce ogulite, ocistite od sjemenki, narezite na ploske i stavite u odgovarajucu zdjelu. Korabicu i rajcice takodjer narezite na ploske, dodajte kukuruz, dimljeni losos narezan na rezance i nakapajte narancinim sokom. Jogurt pomijesajte s majonezom, protisnutim cesnjakom, Vegetom Twist salata, koprom i metvicom pa neka odstoji oko 35 minuta. Uz ohladjeno narezano povrce ponudite pripremljeni preljev, pospite sezamom i posluzite kao osvjezavajuci mali obrok."
+    },
+    "33" : {
+      "image" : "https://recipeci.com/wp-content/uploads/2011/03/P2240015-376x282.jpg",
+      "ingredients" : "9 krumpira srednje velicine, 2 luka, 5 zlica kiselog vrhnja, 15 dag sira trapista, nekoliko tankih snita pancete, vegeta, sol, papar",
+      "menuId" : "04",
+      "name" : "ZAPECENI PUNJENI KRUMPIR",
+      "preparation" : "Krumpir oprati i kuhati pod korom oko 20 do 30 min ovisno o velicini krumpira. U svakom slucaju, ne smije se prekuhati jer ce se onda tesko izdubiti i raspadat ce se. Krumpir potom oguliti i izdubiti mi sredinu zlicicom ostavljajuci rub od oko pola cm. Na ulju prziti sitno sjeckani luk. U posudi pomijesati izdubljeni dio krumpira, przeni luk, kiselo vrhnje i oko 10 dag ribanog sira. Zaciniti solju, paprom i vegetom. Napuniti smjesom izdubljeni krumpir, sloziti ga na papir za pecenje u veci lim, posipati ostatkom sira i u svaki komad utisnuti komadic pancete. Ispeci u pecnici na 200C oko 20 do 30 min dok krumpir ne poprimi lijepu zuckastu boju. Dobar tek!"
+    },
+    "34" : {
+      "image" : "https://coolinarika.azureedge.net/images/_variations/8/9/89799192d0f21553dc8d589283da1d11_header.jpg",
+      "ingredients" : "5 listova zelene salate, 1 rajcica, 1 jaje, 1 jogurt, 3 do 4 snite prsuta ili fine sunke, 1 korica od snite kruha, 1 zlica Vegete Twist za salatu, 5 dag sira Goude ili neki drugi koji volite, malo soli",
+      "menuId" : "05",
+      "name" : "CEZAROVA SALATA",
+      "preparation" : "Skuhajte jaje. Salatu operite i narezite na trakice, rajcicu na kockice i jaje na sestine uzduzno. Narezite prsut ili sunku na trakice, malo poprzite bez ulja na teflonskoj tavi. Slazite u zdjelu, prvo zelenu salatu, pa rajcice, malo posolite povrce, pa jaje, pa na to poprzeni prsut. Pomijesajte Vegetu za salatu i jogurt..pa zalijte po sastojcima..mozete dodati jos malo soli, ako vam nije dovoljno. Poprzite kockice kruha na ostatku masnoce od prsuta i pobacajte po salati�naribajte sir i posluzite."
+    }
+  },
+  "Users" : {
+    "098000222" : {
+      "name" : "user2",
+      "password" : "user222"
+    },
+    "098123123" : {
+      "name" : "user",
+      "password" : "user111"
+    }
+  }
+}

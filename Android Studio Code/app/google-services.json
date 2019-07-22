@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "405143155303",
+    "firebase_url": "https://simplefoodie-2051e.firebaseio.com",
+    "project_id": "simplefoodie-2051e",
+    "storage_bucket": "simplefoodie-2051e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405143155303:android:503acfd1d1ec33c9",
+        "android_client_info": {
+          "package_name": "hr.ferit.bspoljaric.simplefoodie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405143155303-g67ujdjvfk5gtcak9l2hklu4p1t4hk20.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hr.ferit.bspoljaric.simplefoodie",
+            "certificate_hash": "2aed0ec6ff5005f2f95f4c87aa6bbfbf035d59c1"
+          }
+        },
+        {
+          "client_id": "405143155303-dopmtu59k33ikfo1kndqo0inni961j0l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4Hhsrhd2S0dH2AKRqdBhLHOxLbHNhLgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "405143155303-dopmtu59k33ikfo1kndqo0inni961j0l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
